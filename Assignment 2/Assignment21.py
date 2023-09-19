@@ -1,0 +1,6 @@
+print("Enter hours : ")
+hour = int(input())
+print("Enter Rate : ")
+Rate = float(input())
+Salary = float(hour*Rate)
+print("Salary : ",Salary)
